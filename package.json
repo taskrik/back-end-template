@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "nodemon .",
-    "compile": "tsc "
+    "compile": "tsc -w"
   },
   "dependencies": {
     "@types/bcrypt": "^2.0.0",
